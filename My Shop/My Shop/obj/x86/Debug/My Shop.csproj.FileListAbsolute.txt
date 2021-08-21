@@ -1,0 +1,22 @@
+D:\Software Projects\C#\My Shop\My Shop\bin\Debug\Database1.mdf
+D:\Software Projects\C#\My Shop\My Shop\bin\Debug\Database1_log.ldf
+D:\Software Projects\C#\My Shop\My Shop\bin\Debug\My Shop.exe.config
+D:\Software Projects\C#\My Shop\My Shop\bin\Debug\My Shop.exe
+D:\Software Projects\C#\My Shop\My Shop\bin\Debug\My Shop.pdb
+D:\Software Projects\C#\My Shop\My Shop\obj\x86\Debug\My_Shop.Form1.resources
+D:\Software Projects\C#\My Shop\My Shop\obj\x86\Debug\My_Shop.Properties.Resources.resources
+D:\Software Projects\C#\My Shop\My Shop\obj\x86\Debug\My Shop.csproj.GenerateResource.Cache
+D:\Software Projects\C#\My Shop\My Shop\obj\x86\Debug\My Shop.exe
+D:\Software Projects\C#\My Shop\My Shop\obj\x86\Debug\My Shop.pdb
+D:\Software Projects\C#\My Shop\My Shop\obj\x86\Debug\My Shop.csprojResolveAssemblyReference.cache
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\bin\Debug\My Shop.exe.config
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\obj\x86\Debug\My Shop.exe
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\obj\x86\Debug\My Shop.pdb
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\bin\Debug\My Shop.exe
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\bin\Debug\My Shop.pdb
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\obj\x86\Debug\My Shop.csprojResolveAssemblyReference.cache
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\obj\x86\Debug\My_Shop.Form1.resources
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\obj\x86\Debug\My_Shop.Properties.Resources.resources
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\obj\x86\Debug\My Shop.csproj.GenerateResource.Cache
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\bin\Debug\Database1.mdf
+D:\Software Projects\C# Visual Studio\My Shop\My Shop\bin\Debug\Database1_log.LDF
